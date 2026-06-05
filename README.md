@@ -1,6 +1,10 @@
-*bark*
+**^bark**
 
-a colorscheme based on base16-default-dark
+a warmer colorscheme
+
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/8aa05831-94be-4c9f-835d-b14d104462ce" />
+
+*the font used is maple mono*
 
 **[base16](./bark.yaml)**
 
@@ -12,15 +16,19 @@ i recommend you don't install plugins and instead just use generators
 
 **[vim/neovim](./bark.vim)**
 
-put it in your ~/.config/nvim/colors/bark.vim
+put it in your `~/.config/nvim/colors/bark.vim`
 
-then
-```lua
-vim.cmd.colorscheme("bark")
-```
-
+, then
+- nvim
+  ```lua
+  vim.cmd.colorscheme("bark")
+  ```
+- vim
+  ```vimscript
+  colorscheme bark
+  ```
 any contributions are welcome, because this is just a slightly modified base16 output
 
-**your own**
+**[your own](https://github.com/if-not-nil/bark/pulls)**
 
 if you liked this enough to port it into your software of choice, please let me know
