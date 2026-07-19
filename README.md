@@ -29,6 +29,12 @@ put it in your `~/.config/nvim/colors/bark.vim`
   ```
 any contributions are welcome, because this is just a slightly modified base16 output
 
+**[kitty](./kitty.conf)**
+
+put `kitty.conf` into `~/.config/kitty/bark.conf`
+
+then add `include ./base16-default-dark.conf` to your kitty config
+
 **[your own](https://github.com/if-not-nil/bark/pulls)**
 
 if you liked this enough to port it into your software of choice, please let me know
