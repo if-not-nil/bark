@@ -35,6 +35,14 @@ put `kitty.conf` into `~/.config/kitty/bark.conf`
 
 then add `include ./base16-default-dark.conf` to your kitty config
 
+
+**[lite-xl & ghostty](https://github.com/snowlock-dev/bark-extras)**
+
+(Community Port) instructions available at the repo linked above!
+
+*Also: Colors may vary slightly from the original due to how Lite XL/Ghostty handle syntax highlighting.*
+
+
 **[your own](https://github.com/if-not-nil/bark/pulls)**
 
 if you liked this enough to port it into your software of choice, please let me know
